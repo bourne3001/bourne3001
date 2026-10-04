@@ -1,0 +1,38 @@
+{
+  "mode": "built-in imagegen",
+  "shots": [
+    {
+      "id": "01",
+      "prompt": "Use case: stylized-concept. Create one standalone wide 16:9 cinematic frame for an ORIGINAL Chinese psychological horror videogame. Match supplied reference ONLY as style/lighting reference: high-end real-time 3D game rendering, dark cold desaturated steel blue and charcoal gray, readable shadow detail, tiny weak amber lanterns, rammed earth Northwest Chinese Ming village architecture, eerie windblown dust. NOT a photograph of actors. No typography, no UI, no watermark, no blood. Extreme close-up in a Ming village attic: adult woman's left wrist bound with worn gray cloth against ivory Ming aoqun sleeve with indigo trim, beside a modern black phone held by a modern person's hand. Screen is dim blank blue gray for later compositing. Background old wood. Woman's face out of frame. Hands anatomically coherent, cool moonlight, deeply disturbing quiet."
+    },
+    {
+      "id": "02",
+      "prompt": "Use case: stylized-concept. Create one standalone wide 16:9 cinematic frame for an ORIGINAL Chinese psychological horror videogame. Match supplied reference ONLY as style/lighting reference: high-end real-time 3D game rendering, dark cold desaturated steel blue and charcoal gray, readable shadow detail, tiny weak amber lanterns, rammed earth Northwest Chinese Ming village architecture, eerie windblown dust. NOT a photograph of actors. No typography, no UI, no watermark, no blood. Interior modern white SUV, camera from back middle seat toward front. Olive jacket short black bob woman driving on left; short black hair young male dark red hiking jacket in right passenger seat, holding smartphone gimbal toward road. Their faces seen in profile, empty desert road windshield under slate dusk sky, cold atmosphere. No other people visible."
+    },
+    {
+      "id": "03",
+      "prompt": "Use case: stylized-concept. Create one standalone wide 16:9 cinematic frame for an ORIGINAL Chinese psychological horror videogame. Match supplied reference ONLY as style/lighting reference: high-end real-time 3D game rendering, dark cold desaturated steel blue and charcoal gray, readable shadow detail, tiny weak amber lanterns, rammed earth Northwest Chinese Ming village architecture, eerie windblown dust. NOT a photograph of actors. No typography, no UI, no watermark, no blood. Exterior wide establishing shot: parked white SUV with no readable license plate at left foreground on Northwest desert road, thick cold gray sandstorm approaches a small abandoned rammed earth village gate at right background, dim tiny lantern in gate. Twilight steel blue sky, no people visible, no vegetation lushness, ancient village half buried by sand."
+    },
+    {
+      "id": "05",
+      "prompt": "Use case: stylized-concept. Create one standalone wide 16:9 cinematic frame for an ORIGINAL Chinese psychological horror videogame. Match supplied reference ONLY as style/lighting reference: high-end real-time 3D game rendering, dark cold desaturated steel blue and charcoal gray, readable shadow detail, tiny weak amber lanterns, rammed earth Northwest Chinese Ming village architecture, eerie windblown dust. NOT a photograph of actors. No typography, no UI, no watermark, no blood. Medium close-up of 23-year-old modern Chinese woman with low black ponytail, muted mustard hiking jacket, single ear monitoring headphone, holding short audio boom microphone beside ancient circular stone well in same abandoned rammed earth village courtyard. She listens tensely toward dark well, her mouth closed, afraid and focused, tiny amber lantern far behind, mostly cold moonlight. Consistent well courtyard, sand-covered ground, collapsed wood planks nearby."
+    },
+    {
+      "id": "07",
+      "prompt": "Use case: stylized-concept. Create one standalone wide 16:9 cinematic frame for an ORIGINAL Chinese psychological horror videogame. Match supplied reference ONLY as style/lighting reference: high-end real-time 3D game rendering, dark cold desaturated steel blue and charcoal gray, readable shadow detail, tiny weak amber lanterns, rammed earth Northwest Chinese Ming village architecture, eerie windblown dust. NOT a photograph of actors. No typography, no UI, no watermark, no blood. Over shoulder shot behind young Chinese man dark red hiking jacket at an ancient circular stone well. His right hand holds smartphone on black gimbal at right foreground. At left center a frightened young adult woman in muted mustard jacket is below well edge, only face shoulders and hands gripping stone rim visible. She is hanging inside the well, feet not visible. A clear moral choice between filming and reaching toward her, no text. Cool dark blue lighting. Keep center lower area dark for later UI."
+    },
+    {
+      "id": "08",
+      "prompt": "Use case: stylized-concept. Create one standalone wide 16:9 cinematic frame for an ORIGINAL Chinese psychological horror videogame. Match supplied reference ONLY as style/lighting reference: high-end real-time 3D game rendering, dark cold desaturated steel blue and charcoal gray, readable shadow detail, tiny weak amber lanterns, rammed earth Northwest Chinese Ming village architecture, eerie windblown dust. NOT a photograph of actors. No typography, no UI, no watermark, no blood. Close-up successful rescue at same ancient circular stone well: red jacket man's two hands gripping mustard jacket woman's forearms, pulling her upward over stone well rim. Both adult, only arms upper torsos visible, no awkward extra fingers, no duplicated limbs. A dropped black smartphone gimbal lies on sand at lower right foreground, phone glass cracked but screen dim empty blue gray. Cold blue moonlight, relief still uneasy. Wide 16:9 composition."
+    },
+    {
+      "id": "04",
+      "prompt": "Standalone wide 16:9 original Chinese psychological horror videogame frame. High-end real-time 3D game rendering, dark cold desaturated steel blue and charcoal gray, readable shadow detail, tiny weak amber lanterns, rammed earth Northwest Ming Chinese village architecture, eerie dust. Supplied image is only a style/lighting reference. No typography, UI, watermark or blood. Over shoulder short black bob woman olive jacket and dark backpack holding flashlight toward half-buried stone village marker center foreground, clear blank stone front for later text. Young man dark red jacket behind right holding gimbal. Beyond stone Northwest Ming rammed earth village gate. Dusk sandstorm, no attic woman."
+    },
+    {
+      "id": "06",
+      "prompt": "Standalone wide 16:9 original Chinese psychological horror videogame frame. High-end real-time 3D game rendering, dark cold desaturated steel blue and charcoal gray, readable shadow detail, tiny weak amber lanterns, rammed earth Northwest Ming Chinese village architecture, eerie dust. Supplied image is only a style/lighting reference. No typography, UI, watermark or blood. Extreme close-up downward at ancient stone well edge: adult woman's hiking boot beside cracked old wooden planks breaking over dark well opening. Mustard yellow trouser hem. A short modern audio boom mic lies across stone rim, splinters falling. No full person or face. Cold blue flashlight, tense physical danger insert."
+    }
+  ],
+  "continuity_revision": "08: preserve rescue composition; replace olive bob-haired woman with Tang Xiao in mustard jacket, long black low ponytail, no backpack. References assets/07.png and initial assets/08.png."
+}
